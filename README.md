@@ -1,12 +1,38 @@
-# React + Vite
+# Real-Estate-Landing 🏡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Screenshot](SOON)
 
-Currently, two official plugins are available:
+Modern real estate landing page with contact form functionality and smooth animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Responsive Design**: Mobile-first approach with Tailwind CSS
+- **Working Contact Form**: EmailJS integration for message delivery
+- **Interactive Elements**:
+  - Property image carousel
+  - Animated CTAs (buttons, hover effects, sections appearing)
+  - Smooth scroll navigation
+- **Performance Optimized**: Fast loading with React lazy components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack Implementation
+
+- **React 18**
+- **Tailwind CSS v3.3**
+- **Responsive Breakpoints (every device is supported)**
+- **Auto email sending system**
+
+## 📦 Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/necoss/Real-Estate-Landing.git
+```
+
+2. Install dependencies:
+```bash
+cd Real-Estate-Landing && npm install
+```
+
+3. Start development server:
+```bash
+npm run dev
+```
