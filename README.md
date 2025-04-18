@@ -1,6 +1,6 @@
 # Real-Estate-Landing 🏡
 
-![Project Screenshot](SOON)
+![Project Screenshot]() SOON
 
 Modern real estate landing page with contact form functionality and smooth animations.
 
